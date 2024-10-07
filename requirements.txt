@@ -151,3 +151,4 @@ websocket-client==1.8.0
 websockets==12.0
 widgetsnbextension==4.0.13
 yarl==1.9.4
+matplotlib

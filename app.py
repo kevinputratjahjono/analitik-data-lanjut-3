@@ -3,7 +3,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 
 # Judul aplikasi
-st.title('Streamlit Simple App')
+st.title('Streamlit Punya Gueh')
 
 # Menambahkan navigasi di sidebar
 page = st.sidebar.radio("Pilih halaman", ["Dataset", "Visualisasi"])
